@@ -32,6 +32,9 @@ aws_secret_access_key = {{SECRET_ACCESS_KEY}}
 # Check the current configurations
 $ aws configure list
 
+# Edit the current configurations
+$ aws configure
+
 # Check available profiles
 $ aws configure list-profiles
 
